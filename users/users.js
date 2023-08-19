@@ -64,7 +64,34 @@ const users = {
 
         },
         {
-
+            club_name: "Abubakar Bukola Saraki Football Club",
+            founded: 2004,
+            club_owner:"Abubakar Bukola Saraki",
+            chairman: 'Seni Saraki',
+            ground: ' Kwara State Stadium Ilorin, Nigeria',
+            stadium_capacity: '18,000',
+            league: 'Nigeria Professional Football League',
+            team_manager: 'A C C chukuemeka',
+            technical_advisor: "Erasmus Onu",
+            coach: "Henry Makinwa",
+            club_details: "Abubakar Bukola Saraki FC is a Nigerian association football club from Ilorin, Nigeria. They were promoted to the Nigeria Premier League at the end of the 2009–10 season. They played their debut season's home games in Offa and Bauchi while the Kwara State Stadium was being renovated.They were put up for sale in July 2011 and bought by outgoing Kwara State governor Bukola Saraki for 250,000,000 naira, making them and JUTH F.C. the only Premier League teams that are not state-owned.In 2011, the team was renamed from Bukola Babes to ABS (Abubakar Bukola Saraki) FC. In 2016, the team returned to the Nigeria Professional Football League.",
+            players:[
+                {
+                    notable_players:{
+                        player_one:'Alalade Wasiu',
+                        player_two: 'Adeshina Gata',
+                        player_three:'Adeleye Tobi Joshua',
+                        player_four: 'Abdulrahman Bashir',
+                        player_five: 'Lordson Ichull',
+                        player_six: 'Effiom Otu Bassey',
+                        player_seven:'Etor Daniel',
+                        player_eight: 'Monday Samuel',
+                        player_nine: 'Thomas Zenke',
+                        player_ten: 'Abdullahi Oyedele',
+                        player_eleven: 'Pascal Chimdindu Anorue'
+                    }
+                }
+            ]
         }
     ]
 }
