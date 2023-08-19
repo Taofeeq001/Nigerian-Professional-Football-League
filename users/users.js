@@ -14,49 +14,49 @@ const users = {
             players:[
                 {
                     goalkeepers:{
-                        player: "Edwin Nwakanma",
-                        player: 'Tambe Charles',
-                        player: 'Uche Okafor',
-                        player: 'Godgift Elkanah'
+                        player_one: "Edwin Nwakanma",
+                        player_two: 'Tambe Charles',
+                        player_three: 'Uche Okafor',
+                        player_four: 'Godgift Elkanah'
                     }
                 },
                 {
                    defenders:{
-                    player:'Ubong Williams',
-                    player:'Chinedu Ozor',
-                    player: 'Jean-Parfait Ledoux (CMR)',
-                    player: 'Ebetomame Oghenetega',
-                    player: 'Innocent Gabriel',
-                    player: 'Samson P'
+                    player_one:'Ubong Williams',
+                    player_two:'Chinedu Ozor',
+                    player_three: 'Jean-Parfait Ledoux (CMR)',
+                    player_four: 'Ebetomame Oghenetega',
+                    player_five: 'Innocent Gabriel',
+                    player_six: 'Samson P'
                    }
                 }, 
                 {
                     midfielders:{
-                        player: 'Abdullahi Fatai',
-                        player: 'Promise Ogu',
-                        player: 'Keumian Guy',
-                        player: 'Hammed Yakub',
-                        player: 'Adekunle Adeleke',
-                        player: 'Somtochukwu Omini',
-                        player: 'Okemmiri Anthony'
+                        player_one: 'Abdullahi Fatai',
+                        player_two: 'Promise Ogu',
+                        player_three: 'Keumian Guy',
+                        player_four: 'Hammed Yakub',
+                        player_five: 'Adekunle Adeleke',
+                        player_six: 'Somtochukwu Omini',
+                        player_seven: 'Okemmiri Anthony'
                     }
                 },
                 {
                     forwards:{
-                        player: "Jimoh Oni",
-                        player: 'Shedrack Asiegbu',
-                        player: 'Auta Phillip',
-                        player: 'Atilola Abdulsalam Tunde',
-                        player: 'Odeh James',
-                        player: 'Ikedinachi Nwakanma'
+                        player_one: "Jimoh Oni",
+                        player_two: 'Shedrack Asiegbu',
+                        player_three: 'Auta Phillip',
+                        player_four: 'Atilola Abdulsalam Tunde',
+                        player_five: 'Odeh James',
+                        player_six: 'Ikedinachi Nwakanma'
                     }
                 }, 
                 {
                     others:{
-                        player:"Emmanuel Ugwuka",
-                        player: 'Obaroakpo A',
-                        player: 'Paul Samson',
-                        player: 'Ugochukwu Anozie'
+                        player_one:"Emmanuel Ugwuka",
+                        player_two: 'Obaroakpo A',
+                        player_three: 'Paul Samson',
+                        player_four: 'Ugochukwu Anozie'
                     }
                 }
                 
@@ -78,17 +78,17 @@ const users = {
             players:[
                 {
                     notable_players:{
-                        player:'Alalade Wasiu',
-                        player: 'Adeshina Gata',
-                        player:'Adeleye Tobi Joshua',
-                        player: 'Abdulrahman Bashir',
-                        player: 'Lordson Ichull',
-                        player: 'Effiom Otu Bassey',
-                        player:'Etor Daniel',
-                        player: 'Monday Samuel',
-                        player: 'Thomas Zenke',
-                        player: 'Abdullahi Oyedele',
-                        player: 'Pascal Chimdindu Anorue'
+                        player_one:'Alalade Wasiu',
+                        player_two: 'Adeshina Gata',
+                        player_three:'Adeleye Tobi Joshua',
+                        player_four: 'Abdulrahman Bashir',
+                        player_five: 'Lordson Ichull',
+                        player_six: 'Effiom Otu Bassey',
+                        player_seven:'Etor Daniel',
+                        player_eight: 'Monday Samuel',
+                        player_nine: 'Thomas Zenke',
+                        player_ten: 'Abdullahi Oyedele',
+                        player_eleven: 'Pascal Chimdindu Anorue'
                     }
                 }
             ]
@@ -133,30 +133,30 @@ const users = {
             players: [
                 {
                     goalkeepers:{
-                        player: 'Victor Philemon'
+                        player_one: 'Victor Philemon'
                     },
                     defenders:{
-                        player: 'Etete Okon',
-                        player: 'Emmanuel Ogbugu',
-                        player: 'Mbai Aminu',
+                        player_one: 'Etete Okon',
+                        player_two: 'Emmanuel Ogbugu',
+                        player_three: 'Mbai Aminu',
                     },
                     others:{
-                        player: 'Emmanuel Ugwuka',
-                        player: 'Lukman Surajo',
-                        player: 'Nanushi Daniel',
-                        player: 'Abba Haruna',
-                        player: 'Sale Mohammed',
-                        player: 'Adamu Yakubu',
-                        player: 'Michael Burate',
-                        player: 'Isa Garba',
-                        player: 'Sule Idris Aloma',
-                        player: 'Harmony Opukeme Ongolo',
-                        player: 'Sadiq Lawal',
-                        player: 'Stanley Nnenna',
-                        player: 'Abubakar Jibrin',
-                        player: 'Idris Abubakar',
-                        player: 'Emmanuel Ibekwe',
-                        player: 'Uche Nwokeji',
+                        player_one: 'Emmanuel Ugwuka',
+                        player_two: 'Lukman Surajo',
+                        player_three: 'Nanushi Daniel',
+                        player_four: 'Abba Haruna',
+                        player_five: 'Sale Mohammed',
+                        player_six: 'Adamu Yakubu',
+                        player_seven: 'Michael Burate',
+                        player_eight: 'Isa Garba',
+                        player_nine: 'Sule Idris Aloma',
+                        player_ten: 'Harmony Opukeme Ongolo',
+                        player_eleven: 'Sadiq Lawal',
+                        player_twelve: 'Stanley Nnenna',
+                        player_thirteen: 'Abubakar Jibrin',
+                        player_fourteen: 'Idris Abubakar',
+                        player_fifteen: 'Emmanuel Ibekwe',
+                        player_sixteen: 'Uche Nwokeji',
                         
                     }
                     
