@@ -157,12 +157,47 @@ const users = {
                         player_fourteen: 'Idris Abubakar',
                         player_fifteen: 'Emmanuel Ibekwe',
                         player_sixteen: 'Uche Nwokeji',
-                        
                     }
                     
                 }
             ]
+        },
+        {
+            club_name: "Dakkada Football Club",
+            founded: '2004',
+            chairman: 'Aniedi Dickson',
+            ground: ' Godswill Akpabio International Stadium',
+            club_owner: 'Government of Akwa Ibom State',
+            stadium_capacity: '30,000',
+            league: 'Nigeria Professional Football League',
+            club_details:'Dakkada FC, formerly Akwa Starlets FC was founded in 2004 by the Akwa Ibom State Government through the then Commissioner for Youths and Sports Chris Ekong as the junior team of Akwa United FC When Dakkada FC was formed they first played in the Nigerian National Amateur League 1 and gradually gained promotions. In September 2019, Akwa Starlet was crowned the 2019 Champion of the Nigeria National League. On the 31 October 2019, the club management officially re-branded the club changing the name from Akwa Starlet FC to Dakkada FC.[6] Dakkada FC is located in Uyo, Akwa Ibom state. Their home stadium is the Godswill Akpabio International Stadium. In 2019, they won a promotion to play in the 2019–2020 season of the Nigerian tier-1 club competition, the Nigerian Professional Football League. In May 2023, after four years in the Nigeria Professional Football League, the club was relegated to the Nigeria National League. According to Nigeria Sports News, the team relegated as a result of "poor recruitment',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'Adewale Oramade',
+                        player_two: '2.	Thomas Omokhudu'
+                    },
+                    defenders:{
+                        player_one: 'Ubong Williams',
+                        player_two: 'Arinze Abuka',
+                        player_three: 'Olawale Doyeri',
+                        player_four: 'Francis Odinaka',
+                        player_five: 'Christian Ekong',
+                    },
+                    others:{
+                        player_one: 'Phillip Archibong',
+                        player_two: 'Ibrahim Abiola',
+                        player_three: 'Godwin Inamoto',
+                        player_four: 'Ubong Idio',
+                        player_five: 'Peter Eletu',
+                        player_six: 'Samuel Akpan',
+                        player_seven: 'Unwana Asuquo',
+                        player_eight: 'Solomon Chigozie',
+                        player_nine: 'Ukeme Umoh',
+                        player_ten: 'Emmanuel Charles',
+                    }
         }
+
     ]
 }
 module.exports = users
