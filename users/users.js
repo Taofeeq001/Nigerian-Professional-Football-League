@@ -184,6 +184,15 @@ const users = {
                         player_four: 'Francis Odinaka',
                         player_five: 'Christian Ekong',
                     },
+                    midfielders:{
+                        player_one: 'Isaac George',
+                        player_two: 'Muritala Lawal',
+                        player_three: 'Afeez Awakan',
+                    },
+                    forwards: {
+                        player_one: 'Aniekan Ekpe',
+                        player_two: 'Adamu Yazid'
+                    },
                     others:{
                         player_one: 'Phillip Archibong',
                         player_two: 'Ibrahim Abiola',
@@ -194,8 +203,10 @@ const users = {
                         player_seven: 'Unwana Asuquo',
                         player_eight: 'Solomon Chigozie',
                         player_nine: 'Ukeme Umoh',
-                        player_ten: 'Emmanuel Charles',
+                        player_ten: '10.	Emmanuel Charles',
                     }
+                }
+            ]
         }
 
     ]
