@@ -13,13 +13,15 @@ const users = {
             club_details: "Abia Warriors Football Club is a Nigerian professional football club based in the city of Umuahia, Abia state.Between 2005 and 2010, they played under the name (Orji Uzor Kalu FC) in honor of Abia governor Orji Uzor Kalu who helped the club with state sponsorship upon promotion to the professional level. They reverted to their old name in summer of 2010 . They won promotion to the Nigeria Premier League for the first time in August 2013 after winning their division on the last day",
             players:[
                 {
-                    player_one: "Edwin Nwakanma",
-                    player_two: 'Tambe Charles',
-                    player_three: 'Uche Okafor',
-                    player_four: 'Godgift Elkanah'
+                    goalkeepers:{
+                        player_one: "Edwin Nwakanma",
+                        player_two: 'Tambe Charles',
+                        player_three: 'Uche Okafor',
+                        player_four: 'Godgift Elkanah'
+                    }
                 },
                 {
-                   goalkeeper:{
+                   defenders:{
                     player_one:'Ubong Williams',
                     player_two:'Chinedu Ozor',
                     player_three: 'Jean-Parfait Ledoux (CMR)',
@@ -61,7 +63,9 @@ const users = {
             ]
 
         },
-        
+        {
+
+        }
     ]
 }
 module.exports = users
