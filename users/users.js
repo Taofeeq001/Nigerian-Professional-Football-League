@@ -92,6 +92,22 @@ const users = {
                     }
                 }
             ]
+        },
+        {
+            club_name: " Abuja Football Club",
+            founded: '1998 (as Buffalo F.C.)',
+            chairman: 'Abdulrahaman Abdulrazaq',
+            ground: '  Old Parade Ground Abuja, Nigeria',
+            stadium_capacity: '18,000',
+            league: 'Nigeria Professional Football League',
+            team_manager: 'Suleiman Abubakar',
+            club_details:' Abuja FC (also known as EFCC FC due to sponsorship reasons) is a Nigerian football club in the Nigeria National League. The club was founded in Kano, and moved to the Federal capital Territory, Abuja. It plays its home matches at the Old Parade Ground, Abuja.They were founded in 1998 as Buffalo FC by Luc Lagouche, a French teacher at the French School in Kano from September 1995 to June 2003 in order to "use sport as a factor for social integration and personal responsibility". The club was promoted out of the amateur ranks within three years after beginning play against other teams.Buffalo moved to the capital in 2006, and was renamed "F.C. Abuja" after sponsorship from the Economic and Financial Crimes Commission. They finished 5th in their division in the 2006/07 season with 3 wins, 8 draws and 3 losses and won their first of consecutive Federal Capital Territory Cups. The team won promotion to the Nigeria Premier League after placing second in the 2007–08 Division 1A. For the 2008/09 season they played home games in Kano and Minna as the Parade Ground was determined to be not up to Premier League standards. Despite being a respectable 13th place at the halfway mark, they were sent down with two games remaining with a final record of 8 wins 13 draws and 17 losses. After four years in the second division, the club was relegated to the Nationwide League in 2014. They were promoted back to the second level on the last matchday in 2016 after a 2–0 win over FRSC.';
+            players: [
+                {
+                    players:'No player details found'
+                }
+            ]
+            
         }
     ]
 }
