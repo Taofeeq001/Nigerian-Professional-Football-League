@@ -288,6 +288,60 @@ const users = {
                 }
             ]
         },
+        {
+            club_name: "Anambra United Football Club",
+            founded: 1999,
+            chairman: 'Odi Ikpeazu',
+            ground: 'Ikpeazu Memorial Stadium Onitsha, Nigeria',
+            team_manager: 'Wahab Haruna',
+            league: 'Nigeria Division 1',
+            club_details:'Anambra United Football Club was a Nigerian football club based in the city of Onitsha. They originally played games in Abakaliki from 1999–2008 as Ebonyi Angels FC, but the team was sold to Anambra State in March 2008 and were renamed Anambra United. After relegation from the Nigeria National League in 2010, the team sold its slot in the Nigeria Amateur League to Westside F.C. and went on hiatus.',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'No data was found'
+                    },
+                    defenders:{
+                        player_one: 'No data was found'
+                    },
+                    midfielders:{
+                        player_one: 'No data was found'
+                    },
+                    forwards: {
+                        player_one: 'No data was found'
+                    },
+                    
+                }
+            ]
+        },
+        {
+            club_name: "Babanawa FC",
+            Dissolved: '2011',
+            founded: 'No data found',
+            chairman: 'Paul Bassey',
+            ground: ' Onikan Stadium',
+            club_owner: 'Col. Ahmadu Usman Suleiman (rtd)',
+            stadium_capacity: '10,000',
+            league: 'Nigeria National League',
+            club_details:'Babanawa FC was a Nigerian National Division One football club, based in Anyigba, Kogi State and play their home games in Lokoja. They were owned by Col. Ahmadu Usman Suleiman (rtd), making them one of the few Nigerian teams not run by a state government. In 2003, they were relegated to the amateur league under "suspicious" circumstances involving player ineligibility, and took the NFL to court to protest, ultimately losing. The team was resurrected in 2005 after acquiring Globe Stars FC and elected to play their games at Onikan Stadium. In 2006 they played their home games in Gboko and Makurdi before returning to Kogi State for the 2007 season. They withdrew from the League in the 2011 season after not making their first three games.',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'No data was found'
+                    },
+                    defenders:{
+                        player_one: 'No data was found'
+                    },
+                    midfielders:{
+                        player_one: 'No data was found'
+                    },
+                    forwards: {
+                        player_one: 'No data was found'
+                    },
+                    
+                }
+            ]
+        },
 
     ]
 }
