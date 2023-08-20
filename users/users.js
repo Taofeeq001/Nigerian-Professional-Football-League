@@ -829,6 +829,56 @@ const users = {
                 }
             ]
         },
+        {
+            club_name: "Gateway United Football Club",
+            founded: 1998,
+            chairman: 'No Data Found',
+            club_owner: 'No Data Found',
+            ground: 'MKO Abiola Stadium, Abeokuta',
+            stadium_capacity: '10,000',
+            league: 'Nigeria National League',
+            coach: 'Hakeem Busari',
+            club_details:'Gateway United FC is a football club based in Abeokuta, Ogun State. They currently play in the second division of the Nigeria league system, (Nigeria National league). They play their home matches at the MKO Abiola International Stadium, Abeokuta.First Bank FC is a Nigerian soccer club run by First Bank of Nigeria and based in Lagos. The bank runs clubs in various sports, including basketball',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'Ibunkun Araromi',
+                        player_one: 'Emmanuel Fabiyi (BEN)',
+                    },
+                    others:{
+                        player_one: 'Ibrahim Abdullahi',
+                        player_two: 'Mannir Ubale',
+                        player_three: 'Sani Abbani',
+                        player_four: 'Usman Suleiman',
+                        player_five: 'Samuel Agba',
+                        player_six: 'Alhassan Yusuf',
+                        player_seven: 'Chidera Ejike',
+                        player_eight: 'Akeem Balogun',
+                        player_nine: 'Franklin Matibuze',
+                        player_ten: 'Amosu Emmanuel',
+                        player_ten: 'Ola Ogundele',
+                        player_ten: 'Austin Oladapo',
+                        player_ten: 'Saleh Mohammed',
+                        player_ten: 'Uche Owasanya',
+                        player_ten: 'Abiola Babatunde',
+                        player_ten: 'Bilya Yarma',
+                        player_eleven: 'Bala Mohammed'
+                    },
+                    midfielders:{
+                        player_one:'Mathias Samuel'
+                    },
+                    defenders:{
+                        player_one: 'Taiye Muritala',
+                        player_two: 'Maurice Chigozie',
+                        player_three: 'Isaac Giwa',
+                    },
+                    forwards: {
+                        player_one: 'Fabassou Djoufoune (CMR))',
+                    }
+                }
+            ]
+        },
+
     ]
 }
 module.exports = users
