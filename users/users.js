@@ -575,6 +575,32 @@ const users = {
                 }
             ]
         },
+        {
+            club_name: "Sardauna Memorial Stadium Gusau, NigeriaCrown Football Club",
+            founded: 	1994,
+            chairman: '	Alhaji A.A. Master',
+            ground: 'Lekan Salami Stadium, Ibadan',
+            team_manager: 'Abdulkadir Muazu',
+            stadium_capacity: '5,000',
+            league: 'Nigerian National League',
+            club_details:'Dalhatu United Football Club is a Nigerian football club based in Gusau, Zamfara State. They play in the second level of professional football in Nigeria, the Nigeria National League',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'Sadiq Abubakard'
+                    },
+                    others:{
+                        player_one: 'Said Ahmed',
+                        player_two: 'Emeka Nnaji',
+                        player_three: 'Usman Samaila',
+                        player_four: 'John James'
+                    },
+                    forwards: {
+                        player_one: 'Isah Rilwan'
+                    },
+                }
+            ]
+        },
 
 
     ]
