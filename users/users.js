@@ -676,7 +676,7 @@ const users = {
             club_name: "Enugu Rangers International Football Club",
             founded: 1970,
             chairman: '	Davidson Owumi',
-            team_manager: 'Prince Davidson Owumi[',
+            team_manager: 'Prince Davidson Owumi',
             ground: 'Nnamdi Azikiwe Stadium Enugu, Enugu State, Nigeria',
             stadium_capacity: '22,000',
             league: 'Nigeria Professional Football League',
@@ -711,7 +711,6 @@ const users = {
                         player_nine: 'Charles Tiesso',
                         player_ten: 'Daniel Vandagar',
                         player_eleven: 'Ebuka Franklin Anthony'
-
                     },
                     forwards: {
                         player_one: 'Christian Nnaji',
@@ -720,6 +719,53 @@ const users = {
                         player_four: 'Israel Abia',
                         player_five: 'Kenechukwu Agu',
                         player_six: 'Timothy Simon',
+                    }
+                }
+            ]
+        },
+        {
+            club_name: "Enyimba Football Club",
+            founded: 1976,
+            chairman: 'Nwankwo Kanu',
+            club_owner: 'Abia State Government',
+            ground: 'Enyimba International Stadium Aba, Abia, Nigeria',
+            stadium_capacity: '16,000',
+            league: 'Nigeria Professional Football League',
+            coach: 'Finidi George',
+            club_details:'Enyimba Football Club or simply known as Enyimba, is a Nigerian football club based in the city of Aba which plays in the Nigerian Professional Football League. Their name means Peoples Elephant in Igbo language and is also the nickname used for the city of Aba. Founded in 1976, the club rose to prominence in the 2000s and is considered the most successful Nigerian football club as they won two African Champions League titles, nine Nigerian championships and four Federation Cups since 2001. Their most-recent league glory came in the 2022–23 season.',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'John Noble Barinyima',
+                        player_two: 'Olorunleke Ojo',
+                        player_three: 'Sabirou Bassa-Djeri (TOG)',
+                    },
+                    defenders:{
+                        player_one: 'Yakubu Bilal',
+                        player_two: 'Pascal Eze',
+                        player_three: 'Odita Okechukwu',
+                        player_four: 'Imo Obot',
+                        player_five: 'Asuquo Uwana',
+                    },
+                    midfielders:{
+                        player_one: 'Edem Ini',
+                        player_two: 'Nzondiegwu Nonso',
+                        player_three: 'Akanni Elijah',
+                        player_four: 'Chijoke Mbaoma',
+                        player_five: 'Ozor Philip',
+                        player_six: 'Cooper Ikenna',
+                        player_seven: 'Oronsaye James',
+                        player_eight: 'Tijani Kabiru',
+                    },
+                    forwards: {
+                        player_one: 'Ekwutoziam Eze',
+                        player_two: 'Chukwuemeka Obioma',
+                        player_three: 'Abubakar Adamu',
+                        player_four: 'Abdullahi Fatai',
+                        player_five: 'Kalu Samuel',
+                        player_six: 'Omoduemuke Moses',
+                        player_seven: 'Adebambo Ademola',
+                        player_eight: 'Awaziem Ekene',
                     }
                 }
             ]
