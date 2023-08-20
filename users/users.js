@@ -654,16 +654,20 @@ const users = {
                     },
                     forwards: {
                         player_one: 'Babatunde Solomon',
-                        player_two: '',
-                        player_three: '',
-                        player_four: '',
-                        player_five: '',
-                        player_six: '',
-                        player_seven: '',
-                        player_eight: '',
-                        player_nine: '',
-
+                        player_two: 'Chinedu Ohanachom',
+                        player_three: 'Analaba Uche',
+                        player_four: 'Baakaka Ajikolo',
+                        player_five: 'Abubakar Umar',
+                        player_six: 'Abdulwaheed Afolabi',
+                        player_seven: 'Ibrahim Mustapha',
+                        player_eight: 'Anthony Yeful',
                     },
+                    others:{
+                        player_one: 'Haliru Hashima',
+                        player_two: 'Ocheme Edoh',
+                        player_three: 'Williams Nkeme',
+                        player_four: 'Tchoanfine Pade',
+                    }
                     
                 }
             ]
