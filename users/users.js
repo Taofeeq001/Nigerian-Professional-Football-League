@@ -367,6 +367,32 @@ const users = {
                 }
             ]
         },
+        {
+            club_name: "Benue Cement Co. Lions Football Club",
+            founded: 1982,
+            chairman: 'Aliko Dangote',
+            ground: 'J. S. Tarka Stadium Gboko, Nigeria',
+            team_manager: '	Andrew Agu',
+            stadium_capacity: '15,000',
+            league: 'Nigeria Amateur League',
+            club_details:'BCC Lions was founded in 1982 by the owner of Benue Cement Company, Aliko Dangote. Chuks Aningo was the teams first coach. In later years, Aningo would serve as the teams manager. At the time, he was employed by Benue Cement Company. BCC Lions was the first team in Northern Nigeria to win the Nigeria Challenge Cup (now known as the Nigeria FA Cup) in 1989. The game was played at Abubakar Tafawa Balewa Stadium, Bauchi and the only goal of the match scored by Aham Nwankwo.[citation needed] The club went on to win the 1993, 1994, 1997 editions of the Challenge Cup as well.After winning the Challenge Cup the club won the first edition of the Mandela Cup in 1990.[citation needed] During the early 1990s, BCC Lions were one of the dominant teams in the league, peaking with the double in 1994. They were relegated from the Nigerian Premier League in 1998 by two points, and were unable to regain the former glory. After spending six years in the lower division, they slowly lost their fan base and financial support. Despite a 2.5 million naira boost from Benue State governor George Akume in 2002 and another million from Guilder Brewing two years later, the team was disbanded, not even showing up for their 2004 FA Cup first round game against Shooting Stars F.C. An attempt to resurrect the team began in November 2007. Dangote, also chairman of the BCC board, announced 110 million naira for the team to participate in the 2008/09 season. They were relegated after finishing 13th.',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'No data was found'
+                    },
+                    defenders:{
+                        player_one: 'No data was found'
+                    },
+                    midfielders:{
+                        player_one: 'No data was found'
+                    },
+                    forwards: {
+                        player_one: 'No data was found'
+                    },
+                }
+            ]
+        },
 
     ]
 }
