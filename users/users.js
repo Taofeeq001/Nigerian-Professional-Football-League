@@ -393,6 +393,55 @@ const users = {
                 }
             ]
         },
+        {
+            club_name: "Bendel Insurance Football Club",
+            founded: 1972,
+            chairman: '	Philip Shaibu Deputy Governor, Edo State',
+            team_manager: 'Monday Odigie',
+            ground: ' Samuel Ogbemudia Stadium Benin City, Nigeria',
+            club_owner: 'Dr. Samuel Osaigbovo Ogbemudia',
+            stadium_capacity: '12,000',
+            league: 'Nigeria Professional Football League',
+            club_details:'Bendel Insurance Football Club, also known as Insurance of Benin Football Club or simply Bendel Insurance, is a football club based in Benin City, Nigeria. The club plays in the Nigeria Premier League. They were originally known as the Vipers of Benin. They play their home matches at Samuel Ogbemudia Stadium, which has a capacity of 12,000. They are the Current Champions of the Federation Cup after defeating Enugu Rangers 1-0 at the Stephen Keshi Stadium in Asaba on June 21, 2023.',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'Amas Obasogie',
+                        player_two: 'Kolawole Oladip'
+                    },
+                    defenders:{
+                        player_one: 'Ebuka Akobundu',
+                        player_two: 'Julius Emiloju',
+                        player_three: 'Benjamin Taminu',
+                        player_four: 'Sunday Anyanwu',
+                        player_five: 'Peter Ambrose',
+                        player_six: 'Jide Williams',
+                        player_seven: 'Daniel Johnson',
+                        player_eight: 'Efe Enabulele',
+                    },
+                    midfielders:{
+                        player_one: 'Stephen Sodje',
+                        player_two: 'Maurice Prince',
+                        player_three: 'Divine Nwachukwu',
+                        player_four: 'Babatunde Ogungbe',
+                        player_five: 'VincentAugustus',
+                    },
+                    forwards: {
+                        player_one: 'Meyiwa Oritseweyam',
+                        player_two: 'Deputy Echeta',
+                        player_three: 'Osas Okoro',
+                        player_four: 'Sarki Ismael',
+                        player_five: 'Imade Osarenkhoe',
+                        player_six: 'Zaidu Ayuba',
+                        player_seven: 'Austine Ogunye',
+                        player_eight: 'Ebenezer Odayemi',
+                        player_nine: 'Saturday Meelubari',
+
+                    },
+                    
+                }
+            ]
+        },
 
     ]
 }
