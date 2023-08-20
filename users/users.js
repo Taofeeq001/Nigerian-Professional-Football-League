@@ -442,6 +442,32 @@ const users = {
                 }
             ]
         },
+        {
+            club_name: "Bridge Football Club",
+            founded: 1976,
+            chairman: 'Adebanjo Shalom',
+            ground: 'Agege Stadium',
+            team_manager: '	Danmola Lateef',
+            stadium_capacity: '4,000',
+            league: 'Metro Pro League',
+            club_details:'Bridge Football Club is a Nigerian football club based in Lagos that was founded in the mid-1970s. As a result of an association with the Julius Berger construction company, the club was known as Julius Berger Football Club until 2010. The club has won national championships and competed internationally. Players such as Odion Ighalo, David Adekola, Yakubu, Taribo West, Sunday Oliseh, Samson Siasia, Emmanuel Amuneke, Rashidi Yekini, Garba Lawal, and Mutiu Adepoju have played for the club.',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'No data was found'
+                    },
+                    defenders:{
+                        player_one: 'No data was found'
+                    },
+                    midfielders:{
+                        player_one: 'No data was found'
+                    },
+                    forwards: {
+                        player_one: 'No data was found'
+                    },
+                }
+            ]
+        },
 
     ]
 }
