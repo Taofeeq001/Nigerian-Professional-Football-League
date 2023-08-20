@@ -338,7 +338,32 @@ const users = {
                     forwards: {
                         player_one: 'No data was found'
                     },
-                    
+                }
+            ]
+        },
+        {
+            club_name: "Bayelsa United Football Club",
+            founded: 2000,
+            chairman: 'Hon. Ebiki Timitimi',
+            ground: ' Samson Siasia Stadium',
+            team_manager: 'arila Okorowanta',
+            stadium_capacity: '5,000',
+            league: 'Nigeria Premier League',
+            club_details:'Bayelsa United FC is a football club based in Yenagoa, Bayelsa, Nigeria. They play in the second division of Nigerian football, the Nigeria National League. Their home games are played at the Samson Siasia Stadium, Ovom, Yenagoa, Bayelsa State.',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'No data was found'
+                    },
+                    defenders:{
+                        player_one: 'No data was found'
+                    },
+                    midfielders:{
+                        player_one: 'No data was found'
+                    },
+                    forwards: {
+                        player_one: 'No data was found'
+                    },
                 }
             ]
         },
