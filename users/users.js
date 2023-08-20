@@ -235,28 +235,31 @@ const users = {
                         player_seven: 'John Lazarus',
                         player_eight: '	Elu Wilson',
                         player_nine: 'Ekene Olisema',
+                        player_ten: 'Etboy Akpan'
                     },
                     midfielders:{
-                        player_one: 'Isaac George',
-                        player_two: 'Muritala Lawal',
-                        player_three: 'Afeez Awakan',
+                        player_one: 'James Arong',
+                        player_two: 'Seth Mayi',
+                        player_three: 'Samuel Amadi',
+                        player_four: 'Ubong Essien',
+                        player_five: 'Stephen Amos',
+                        player_six: 'Nicholas Godswill'
                     },
                     forwards: {
-                        player_one: 'Aniekan Ekpe',
-                        player_two: 'Adamu Yazid'
+                        player_one: 'Ubong Friday',
+                        player_two: 'Ezekiel Bassey (THA)',
+                        player_three: 'Orok Akarandut',
+                        player_four: 'Leo Ezekiel',
+                        player_five: 'Aiz Jibrin',
+                        player_six: 'Tony Obia',
+                        player_seven: 'Stephen Chukwude',
+                        player_eight: 'Utibe Archibong',
+                        player_nine: 'Izu Azuka',
+                        player_ten: 'Wisdom Fernando',
+                        player_eleven: 'Abiodun Thompson',
+
                     },
-                    others:{
-                        player_one: 'Phillip Archibong',
-                        player_two: 'Ibrahim Abiola',
-                        player_three: 'Godwin Inamoto',
-                        player_four: 'Ubong Idio',
-                        player_five: 'Peter Eletu',
-                        player_six: 'Samuel Akpan',
-                        player_seven: 'Unwana Asuquo',
-                        player_eight: 'Solomon Chigozie',
-                        player_nine: 'Ukeme Umoh',
-                        player_ten: '10.	Emmanuel Charles',
-                    }
+                    
                 }
             ]
         }
