@@ -221,16 +221,20 @@ const users = {
                 {
                     goalkeepers:{
                         player_one: 'Adewale Adeyinka',
-                        player_two: 'Jean Efala',
+                        player_two: 'Jean Efala (CFR)',
                         player_three: '	Dele Ajiboye',
                         player_two: 'Ifeanyi Emmanuel'
                     },
                     defenders:{
-                        player_one: 'Ubong Williams',
-                        player_two: 'Arinze Abuka',
-                        player_three: 'Olawale Doyeri',
-                        player_four: 'Francis Odinaka',
-                        player_five: 'Christian Ekong',
+                        player_one: 'James Ajako',
+                        player_two: 'Evans Ogbonda',
+                        player_three: 'Sampson Gbadebo (THA)',
+                        player_four: 'Denis Nya',
+                        player_five: 'Charles Okafor',
+                        player_six: 'Etboy Akpan',
+                        player_seven: 'John Lazarus',
+                        player_eight: '	Elu Wilson',
+                        player_nine: 'Ekene Olisema',
                     },
                     midfielders:{
                         player_one: 'Isaac George',
