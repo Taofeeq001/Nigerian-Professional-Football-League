@@ -468,6 +468,33 @@ const users = {
                 }
             ]
         },
+        {
+            club_name: "Bussdor United Football Club",
+            founded: 2001,
+            chairman: 'Oscar Igbokwe',
+            ground: 'Dan Anyiam Stadium, Owerri',
+            team_manager: '	Sam Obuh Jr.',
+            stadium_capacity: '20,000',
+            league: 'Nigeria Amateur League Division Two',
+            club_details:'The club was founded by Oscar Igbokwe, President of Bussdor Group of Companies, an oil and gas conglomerate. The club rose from the amateur ranks to the professional first division in the first four years of their founding. However, their most "famous" moment was when they missed out on promotion to the Premier League in 2006. On August 12, the last day of the season, Akwa United F.C. beat Calabar Rovers 13–0 after scoring only 12 goals all season. Thus, Akwa won promotion over Bussdor by one goal. Bussdor filed an appeal to have the game investigated, but to no avail. At the end of the 2010 season, they were relegated to the Nigeria Amateur League with a record of four wins, five ties and twenty-one losses, setting a new record in losses since the Professional League went to a two-division format.',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'Sunny Onyekwere'
+                    },
+                    defenders:{
+                        player_one: 'No data was found'
+                    },
+                    midfielders:{
+                        player_one: 'Kingsley Okoronkwo'
+                    },
+                    forwards: {
+                        player_one: 'Fadaiya Nasiru',
+                        player_one: 'Saad Folorunsho'
+                    },
+                }
+            ]
+        },
 
     ]
 }
