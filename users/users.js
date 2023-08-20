@@ -770,6 +770,29 @@ const users = {
                 }
             ]
         },
+        {
+            club_name: "Bendel United F.C.",
+            founded: "NOT DATA found",
+            chairman: 'No Data found ',
+            ground: 'No Data Found',
+            team_manager: 'No Data Found',
+            stadium_capacity: 'No Data Found',
+            league: 'Nigerian National League',
+            club_details:'Bendel United F.C. (formerly Flash Flamingoes and Esan F.C.) is a Nigerian football club based in Uromi, Edo State. They are the current incarnation of a team whose roots go back to Flash Flamingoes F.C.',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'No data was found'
+                    },
+                    others:{
+                        player_one: 'No data was found',
+                    },
+                    forwards: {
+                        player_one: 'No data was found'
+                    },
+                }
+            ]
+        },
     ]
 }
 module.exports = users
