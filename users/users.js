@@ -576,6 +576,32 @@ const users = {
             ]
         },
         {
+            club_name: "Dynamic Sporting Solutions Football Club",
+            founded: 	2011,
+            chairman: 'Sunday Adeleye[',
+            ground: 'Ranchers Bees Stadium, Kaduna',
+            team_manager: 'Tunde Sanni[',
+            stadium_capacity: '10,000',
+            league: 'Nigerian National League',
+            club_details:'DSS FC is a Nigerian football club. They play in the second-tier division in Nigerian football, the Nigeria National League. 10,000 capacity Ranchers Bees Stadium is their home venue. In 2017 they announced a deal which made Gibraltar Second Division club F.C. Olympique 13 their feeder club.',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'Sadiq Abubakard'
+                    },
+                    others:{
+                        player_one: 'Said Ahmed',
+                        player_two: 'Emeka Nnaji',
+                        player_three: 'Usman Samaila',
+                        player_four: 'John James'
+                    },
+                    forwards: {
+                        player_one: 'Isah Rilwan'
+                    },
+                }
+            ]
+        },
+        {
             club_name: "Dalhatu United F.C.",
             founded: 	1994,
             chairman: '	Alhaji A.A. Master',
@@ -601,8 +627,6 @@ const users = {
                 }
             ]
         },
-
-
     ]
 }
 module.exports = users
