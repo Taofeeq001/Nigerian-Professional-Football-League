@@ -624,6 +624,51 @@ const users = {
                 }
             ]
         },
+        {
+            club_name: "El Kanemi Warriors Football Club",
+            founded: 1986,
+            chairman: 'Zanna Mohammed Mala',
+            team_manager: 'Baba Ganaru',
+            ground: 'El-Kanemi Stadium, Maiduguri, Borno State, Nigeria',
+            stadium_capacity: '10,000',
+            league: 'Nigeria Professional Football League',
+            club_details:'El-Kanemi Warriors Football Club is a football team based in Maiduguri, Borno State, Nigeria. They play at El-Kanemi Stadium. They ended their 2005, season in the lower half of the Nigeria Premier League.They were relegated to the Nigeria Division 1 in 2007. In 2012, the El-Kanemi Warriors were promoted back to the top level. Due to the Boko Haram insurgency, in 2014 they played their home games in Kano. From 2015 to 2016, they hosted their home games at the Muhammadu Dikko Stadium in Katsina before returning to Maiduguri and El-Kanemi Stadium. On October 17, 2017, the club announced former Enugu Rangers coach, Imama Amapakabo as their new coach on a one-year deal.',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'Itodo Akor',
+                        player_two: 'Jobe Modou'
+                    },
+                    defenders:{
+                        player_one: 'Joe Maamo',
+                        player_two: 'Lucky Erimuya',
+                        player_three: 'Innocent Gabriel',
+                        player_four: 'Solomon onome',
+                        player_five: 'Osita Echendu',
+                    },
+                    midfielders:{
+                        player_one: 'Stephen Sodje',
+                        player_two: 'Maurice Prince',
+                        player_three: 'Divine Nwachukwu',
+                        player_four: 'Babatunde Ogungbe',
+                        player_five: 'VincentAugustus',
+                    },
+                    forwards: {
+                        player_one: 'Meyiwa Oritseweyam',
+                        player_two: 'Deputy Echeta',
+                        player_three: 'Osas Okoro',
+                        player_four: 'Sarki Ismael',
+                        player_five: 'Imade Osarenkhoe',
+                        player_six: 'Zaidu Ayuba',
+                        player_seven: 'Austine Ogunye',
+                        player_eight: 'Ebenezer Odayemi',
+                        player_nine: 'Saturday Meelubari',
+
+                    },
+                    
+                }
+            ]
+        },
     ]
 }
 module.exports = users
