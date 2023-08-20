@@ -262,7 +262,32 @@ const users = {
                     
                 }
             ]
-        }
+        },
+        {
+            club_name: "Anambra Pillars Football Club",
+            founded: 2005,
+            chairman: 'Ifeanyi Agha',
+            ground: ' kpeazu Memorial Stadium Onitsha, Nigeria',
+            league: 'Nigeria Division 1',
+            club_details:'Anambra Pillars Football Club was a Nigerian football club based in the city of Onitsha. They were founded in 2005 under the name "Power United" and played in the Nigeria Amateur League Division 3. They won promotion up one level for every year of their existence, but in 2008 they had to forgo promotion to the professional Nigerian National League due to lack of funds. After changing its name to Anambra Pillars, the club again won their division in 2009 (by one point) to finally make it to the professional ranks.',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'No data was found'
+                    },
+                    defenders:{
+                        player_one: 'No data was found'
+                    },
+                    midfielders:{
+                        player_one: 'No data was found'
+                    },
+                    forwards: {
+                        player_one: 'No data was found'
+                    },
+                    
+                }
+            ]
+        },
 
     ]
 }
