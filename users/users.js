@@ -672,6 +672,58 @@ const users = {
                 }
             ]
         },
+        {
+            club_name: "Enugu Rangers International Football Club",
+            founded: 1970,
+            chairman: '	Davidson Owumi',
+            team_manager: 'Prince Davidson Owumi[',
+            ground: 'Nnamdi Azikiwe Stadium Enugu, Enugu State, Nigeria',
+            stadium_capacity: '22,000',
+            league: 'Nigeria Professional Football League',
+            coach: 'Fidelis Ilechukwu',
+            club_details:'Rangers International Football Club, commonly known as Enugu Rangers, is a Nigerian professional association football team founded in 1970. Based in Enugu, the Rangers play their home games at the Nnamdi Azikiwe Stadium. Enugu Rangers are one of the three oldest clubs in Nigeria, the other two being Bendel Insurance and Kano Pillars, and the only Nigerian club never to have been relegated from the Nigeria Premier League.',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'Mutawakilu Seidu (GHA)',
+                        player_two: 'Japhet Opubo',
+                        player_three: 'Nana Bonsu',
+                        player_four: "Olufemi Thomas"
+                    },
+                    defenders:{
+                        player_one: 'Ifeanyi Okoro',
+                        player_two: 'David Raki',
+                        player_three: 'Pape Sané (SEN)',
+                        player_four: 'Osas Okoro',
+                        player_five: 'Temitope Olusesi',
+                        player_six: 'Ernest Governor',
+                    },
+                    midfielders:{
+                        player_one: 'Ifeanyi Nweke',
+                        player_two: 'Kelvin Itoya',
+                        player_three: 'Ugochukwu Ugwuoke (ITA)',
+                        player_four: 'Isaac Louté (BEN)',
+                        player_five: 'Dauda Madaki',
+                        player_six: 'Christian Madu',
+                        player_seven: 'Shedrack Asiegbu',
+                        player_eight: 'Archibong Eso',
+                        player_eight: 'Chidiebere Nwobodo',
+                        player_nine: 'Charles Tiesso',
+                        player_ten: 'Daniel Vandagar',
+                        player_eleven: 'Ebuka Franklin Anthony'
+
+                    },
+                    forwards: {
+                        player_one: 'Christian Nnaji',
+                        player_two: 'Felix Ogbuke',
+                        player_three: 'Chinonso Eziekwe',
+                        player_four: 'Israel Abia',
+                        player_five: 'Kenechukwu Agu',
+                        player_six: 'Timothy Simon',
+                    }
+                }
+            ]
+        },
     ]
 }
 module.exports = users
