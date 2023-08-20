@@ -522,6 +522,32 @@ const users = {
                 }
             ]
         },
+        {
+            club_name: "UNICEM-Rovers Football Club",
+            founded: '1977 (reestablished 2008)',
+            chairman: 'Maurice Inok',
+            ground: '	U. J. Esuene Stadium Calabar, Nigeria',
+            team_manager: 'Bob Osim',
+            stadium_capacity: '25,000',
+            league: 'Nigerian National League',
+            club_details:'City of David United Football Club, popularly known as COD United is a Nigerian professional football club based in Lagos State, Nigeria. They play in the Nigeria National League, the second highest level of professional football in Nigeria. The club was established in 2007 by City of David parish of Redeemed Christian Church of God, and plays its home games at Onikan Stadium. In May 2013, the team won the Lagos State FA Cup, by defeating MFM FC and represented the state at National level. It also have partnership agreements with Bolton Wanderers and Bournemouth of England. COD United F.C runs 7 football teams, including U-10, U-12, U-14, U-16 and U-21 teams. Each of these teams are managed by a head coach, while a technical director oversees the entire COD United soccer structure.',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'Olayinka Tunde'
+                    },
+                    defenders:{
+                        player_one: 'No data was found'
+                    },
+                    midfielders:{
+                        player_one: 'No data was found'
+                    },
+                    forwards: {
+                        player_one: 'No data was found'
+                    },
+                }
+            ]
+        },
 
     ]
 }
