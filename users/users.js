@@ -576,10 +576,10 @@ const users = {
             ]
         },
         {
-            club_name: "Sardauna Memorial Stadium Gusau, NigeriaCrown Football Club",
+            club_name: "Dalhatu United F.C.",
             founded: 	1994,
             chairman: '	Alhaji A.A. Master',
-            ground: 'Lekan Salami Stadium, Ibadan',
+            ground: 'Sardauna Memorial Stadium Gusau, NigeriaCrown Football Club',
             team_manager: 'Abdulkadir Muazu',
             stadium_capacity: '5,000',
             league: 'Nigerian National League',
