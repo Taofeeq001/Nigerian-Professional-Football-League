@@ -878,7 +878,29 @@ const users = {
                 }
             ]
         },
-
+        {
+            club_name: "Giwa Football Club",
+            founded: "2012",
+            chairman: 'Chris Giwa',
+            ground: 'Rwang Pam Stadium Jos, Plateau, Nigeria',
+            team_manager: 'No Data Found',
+            stadium_capacity: '15,000',
+            league: 'Nigerian National League',
+            club_details:'Giwa FC is a Nigerian football club. They are located in Jos and they play in the top division in Nigerian football, the Nigerian Premier League. 15,000 capacity Rwang Pam Stadium is their home. With a game to go in their debut season, they won promotion to the Nigeria Premier League with 50 points. They were suspended and then expelled from the league in May 2016 for missing three straight fixtures after exiled from Jos for crowd trouble.Their chairman Chris Giwa was later censured by the Nigeria Football Federation for insisting on leadership of the body, and all their players were released to sign for other clubs the rest of 2016.In August, a state high court gave an injunction that allowed them to be reinstated to the league with eight matchdays left in the year.',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'No data was found'
+                    },
+                    others:{
+                        player_one: 'No data was found',
+                    },
+                    forwards: {
+                        player_one: 'No data was found'
+                    },
+                }
+            ]
+        },
     ]
 }
 module.exports = users
