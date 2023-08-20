@@ -534,7 +534,7 @@ const users = {
             players: [
                 {
                     goalkeepers:{
-                        player_one: 'Olayinka Tunde'
+                        player_one: 'No datas found'
                     },
                     defenders:{
                         player_one: 'No data was found'
@@ -548,6 +548,34 @@ const users = {
                 }
             ]
         },
+        {
+            club_name: "Crown Football Club",
+            founded: 	1994,
+            chairman: 'Mallam Bello Noah',
+            ground: 'Lekan Salami Stadium, Ibadan',
+            team_manager: 'Lawrence Akpokona',
+            coach:'Oladunni Oyekale',
+            stadium_capacity: '10,000',
+            league: 'Nigerian National League',
+            club_details:'Crown FC is a Nigerian professional association football club based in Ogbomosho, Oyo State, that competes in the Nigeria National League. The club plays at the Lekan Salami Stadium, with a capacity of 10,000. For the 2010–11 season they played some games at the Ilaro Stadium in nearby Ogun State and returned in 2012/2013 to the Soun Stadium.',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'No datas found'
+                    },
+                    defenders:{
+                        player_one: 'No data was found'
+                    },
+                    midfielders:{
+                        player_one: 'No data was found'
+                    },
+                    forwards: {
+                        player_one: 'No data was found'
+                    },
+                }
+            ]
+        },
+
 
     ]
 }
