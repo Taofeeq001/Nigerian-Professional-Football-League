@@ -793,6 +793,42 @@ const users = {
                 }
             ]
         },
+        {
+            club_name: "First Bank Football Club",
+            founded: "No Data Found",
+            chairman: 'No Data Found',
+            club_owner: 'First Bank of Nigeria',
+            ground: 'Onikan Stadium, Lagos Teslim Balogun Stadium, Surulere',
+            stadium_capacity: '10,000/25,000',
+            league: 'Nigeria National League',
+            coach: 'No Data Found',
+            club_details:'First Bank FC is a Nigerian soccer club run by First Bank of Nigeria and based in Lagos. The bank runs clubs in various sports, including basketball',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'Okeegbo Ndubuisi',
+                    },
+                    others:{
+                        player_one: 'Ibe Chigozie (Captain)',
+                        player_two: 'Uwaozuma Ifeanyi',
+                        player_three: 'Oladapo Ayoola',
+                        player_four: 'Kareem Kenny Abubakar',
+                        player_five: 'Richard Femi',
+                        player_six: 'Ohaegbu Izuchukwu',
+                        player_seven: 'Emmanuel Egesi',
+                        player_eight: 'Omoyegun Nurudeen',
+                        player_nine: 'Olanrewaju Rahman',
+                        player_ten: 'Okonkwo Nonso',
+                        player_ten: 'Oladejo Femi',
+                        player_ten: 'Onaolapo Yinka',
+                        player_ten: 'Amoo Rahman',
+                        player_ten: 'Salami Sheriff',
+                        player_ten: '	Oghenevo Uzezi',
+                        player_ten: 'Oladimeji Salvador'
+                    },
+                }
+            ]
+        },
     ]
 }
 module.exports = users
