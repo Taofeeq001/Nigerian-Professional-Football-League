@@ -207,6 +207,54 @@ const users = {
                     }
                 }
             ]
+        },
+        {
+            club_name: "Akwa United Football Club",
+            founded: 1996,
+            chairman: 'Paul Bassey',
+            ground: ' Godswill Akpabio International Stadium',
+            club_owner: 'Government of Akwa Ibom State',
+            stadium_capacity: '30,000',
+            league: 'Nigeria Professional Football League',
+            club_details:'Akwa United Football Club is a Nigerian football club based in Uyo. They play in the first division of Nigerian football, the Nigeria Professional Football League. Godswill Akpabio International Stadium is the clubs home stadium. In the 2020-21 season, they won their first Nigerian top-flight title',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'Adewale Adeyinka',
+                        player_two: 'Jean Efala',
+                        player_three: '	Dele Ajiboye',
+                        player_two: 'Ifeanyi Emmanuel'
+                    },
+                    defenders:{
+                        player_one: 'Ubong Williams',
+                        player_two: 'Arinze Abuka',
+                        player_three: 'Olawale Doyeri',
+                        player_four: 'Francis Odinaka',
+                        player_five: 'Christian Ekong',
+                    },
+                    midfielders:{
+                        player_one: 'Isaac George',
+                        player_two: 'Muritala Lawal',
+                        player_three: 'Afeez Awakan',
+                    },
+                    forwards: {
+                        player_one: 'Aniekan Ekpe',
+                        player_two: 'Adamu Yazid'
+                    },
+                    others:{
+                        player_one: 'Phillip Archibong',
+                        player_two: 'Ibrahim Abiola',
+                        player_three: 'Godwin Inamoto',
+                        player_four: 'Ubong Idio',
+                        player_five: 'Peter Eletu',
+                        player_six: 'Samuel Akpan',
+                        player_seven: 'Unwana Asuquo',
+                        player_eight: 'Solomon Chigozie',
+                        player_nine: 'Ukeme Umoh',
+                        player_ten: '10.	Emmanuel Charles',
+                    }
+                }
+            ]
         }
 
     ]
