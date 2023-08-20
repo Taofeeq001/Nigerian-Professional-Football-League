@@ -495,6 +495,33 @@ const users = {
                 }
             ]
         },
+        {
+            club_name: "C.O.D United Football Club of Lagos",
+            founded: 2007,
+            chairman: 'Shola Opaleye',
+            club_owner: 'David parish',
+            ground: 'Onikan Stadium, Lagos',
+            team_manager: 'Okey Emordi',
+            stadium_capacity: '20,000',
+            league: 'Nigerian National League',
+            club_details:'City of David United Football Club, popularly known as COD United is a Nigerian professional football club based in Lagos State, Nigeria. They play in the Nigeria National League, the second highest level of professional football in Nigeria. The club was established in 2007 by City of David parish of Redeemed Christian Church of God, and plays its home games at Onikan Stadium. In May 2013, the team won the Lagos State FA Cup, by defeating MFM FC and represented the state at National level. It also have partnership agreements with Bolton Wanderers and Bournemouth of England. COD United F.C runs 7 football teams, including U-10, U-12, U-14, U-16 and U-21 teams. Each of these teams are managed by a head coach, while a technical director oversees the entire COD United soccer structure.',
+            players: [
+                {
+                    goalkeepers:{
+                        player_one: 'Olayinka Tunde'
+                    },
+                    defenders:{
+                        player_one: 'No data was found'
+                    },
+                    midfielders:{
+                        player_one: 'No data was found'
+                    },
+                    forwards: {
+                        player_one: 'No data was found'
+                    },
+                }
+            ]
+        },
 
     ]
 }
